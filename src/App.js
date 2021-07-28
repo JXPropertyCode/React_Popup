@@ -1,5 +1,5 @@
 import Popup from "./components/Popup";
-import { useState, useEffect } from 'react'
+import { useState } from 'react'
 
 function App() {
 	const [buttonPopup, setButtonPopup] = useState(false)
